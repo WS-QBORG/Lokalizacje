@@ -85,7 +85,7 @@
     map.addLayer(markerCluster);
 
     // Wczytanie tabeli
-    fetch("projektanci_z_mapy.html")
+    fetch("./projektanci_z_mapy.html")
         .then(res => res.text())
         .then(html => {
             document.getElementById("tabela-z-projektantami").innerHTML = html;
