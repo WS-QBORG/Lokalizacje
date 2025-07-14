@@ -29,7 +29,7 @@
 
         var markers = L.markerClusterGroup();
 
-        fetch('wnioski_demo.geojson')
+        fetch('./wnioski_demo.geojson')
             .then(response => response.json())
             .then(data => {{
                 L.geoJSON(data, {{
