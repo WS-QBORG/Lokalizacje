@@ -39,7 +39,7 @@
 
     const markers = L.markerClusterGroup();
 
-    fetch('./przykladowe_punkty.geojson')
+    fetch('./przykladowe_punkty.json')
       .then(response => response.json())
       .then(data => {
         const geoJsonLayer = L.geoJSON(data, {
