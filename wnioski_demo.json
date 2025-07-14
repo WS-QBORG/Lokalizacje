@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.552, 53.428]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Grunwaldzka<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa domu<br><b>Kubatura:</b> 400<br><b>Projektant:</b> Jan Kowalski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.183, 54.194]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Zwycięstwa<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt usługowy<br><b>Nazwa zamierzenia:</b> Budowa biurowca<br><b>Kubatura:</b> 1200<br><b>Projektant:</b> Anna Nowak<br>"
+      }
+    }
+  ]
+}
