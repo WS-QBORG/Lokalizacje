@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2025151,
+          54.2178287
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Mazurska 15<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa budynku mieszkalnego jednorodzinnego w zabudowie bliźniaczej polegająca na wykonaniu zadaszenia nad wejściem<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Krzyżaniak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5420832,
+          53.445414
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Barnima III Wielkiego 19<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa mieszkania<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 42.0<br><b>Projektant:</b> Jerzy Mrowiński<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3314436,
+          53.4663949
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Chociwel<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 578.0<br><b>Projektant:</b> Agata Prabucka<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5585823,
+          53.4473583
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Dembowskiego 6<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 12500.0<br><b>Projektant:</b> Andrzej Morawski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1770809,
+          54.1929396
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Niepodległości 8<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Mikołaj Krajewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8639193,
+          53.9480472
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Grębowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa elektroenergetycznej sieci kablowej n.n. 0,4 kV w celu zasilenia w energię elektryczną działek budowlanych w miejscowości Grębowo gmina Kamień Pomorski<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Paweł Paczynski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7756,
+          53.76875
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świdwin<br><b>Ulica:</b> Słowackiego 3<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa instalacji centralnego ogrzewania w lokalu mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Tomasz Kubicki<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7083602,
+          53.8904311
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławoborze<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa sieci wodociągowej i sieci kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Roman Góral<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2002243,
+          54.1894949
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Grottgera 7<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa części budynku mieszkalnego wielorodzinnego w celu wyodrębnienia  lokalu mieszkalnego wraz z przebudową instalacji gazowej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 348.0<br><b>Projektant:</b> Mikołaj Krajewski <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.941714,
+          54.057062
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Pobierowo<br><b>Ulica:</b> Leśna 7<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Nadbudowa i rozbudowa Istniejącego budynku ze zmianą sposobu użytkowania na mieszkalny jednorodzinny wraz z instalacjami: wody, c.o., kanalizacji sanitarnej i elektrycznymi<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 313.0<br><b>Projektant:</b> Magdalena Kumor<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7706109,
+          54.2199321
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Ustronie Morskie<br><b>Ulica:</b> Graniczna 6<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na zmianę pozwolenia na budowę budynku mieszkalno-usługowego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 13844.0<br><b>Projektant:</b> Monika Bahonko<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68725,
+          54.11921
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Polanów<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny z przyłączem i zewnętrzną instalacją wodociągową, zbiornikiem bezodpływowym i zewnętrzną instalacją kanalizacji sanitarnej oraz zalicznikową linią energetyczną<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 411.0<br><b>Projektant:</b> Piotr Ciechanowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6157008,
+          53.843788
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Wolin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wykonanie wewnętrznej i zewnętrznej instalacji gazowej w budynku mieszkalnym jednorodzinnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Czesław Nowakowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9327303,
+          54.0606743
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Pobierowo<br><b>Ulica:</b> Grunwaldzka 80<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wykonanie pięciu balkonów o konstrukcji stalowej, wstawienie pięciu okien dachowych i pięciu par drzwi balkonowych w budynku usługowo-pensjonatowym <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Marian Szpilkowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.72694,
+          53.65195
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Turowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 822.14<br><b>Projektant:</b> Romuald Pawelski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3935807,
+          54.1564885
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dźwirzyno<br><b>Ulica:</b> Żeglarska 18<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na budowę wiaty<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Leszek Radziński<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5736423,
+          54.1728232
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> Szpitalna 7<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na zmianę pozwolenia B.6740.00620.2014 dot. pzebudowy budynku mieszkalno-usługowego \"Nad Parsętą\" w części dot. zmiany funkcji pomieszczeń w piwnicy<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 17563.0<br><b>Projektant:</b> Paweł Gajdowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1095724,
+          53.3776406
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kiczarowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budynek mieszkalny jednorodzinny<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 623.0<br><b>Projektant:</b> Jan Olszówka<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7647841,
+          53.9079341
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sidłowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji i zatwierdzenie projektu budowlanego zamiennego do dec. znak: AB.6740.47.2016<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ryszard Chmielewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7647841,
+          53.9079341
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sidłowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji i zatwierdzenie projektu budowlanego zamiennego do dec. znak: AB.6740.47.2016<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ryszard Chmielewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0952705,
+          53.7648981
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Połczyn-Zdrój<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa osiedlowej sieci cieplnej niskich parametrów<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bartosz Baranowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0952705,
+          53.7648981
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Połczyn-Zdrój<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa osiedlowej sieci cieplnej niskich parametrów<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bartosz Baranowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0952705,
+          53.7648981
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Połczyn-Zdrój<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa osiedlowej sieci cieplnej niskich parametrów<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bartosz Baranowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5366694,
+          53.4154155
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Dąbrowskiego 20<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa kuchni na kuchnię i łazienkę w lokalu mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Elżbieta Nowak-Krzywańska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na budowę obiektu liniowego sieci wodociągowej wraz z odgałęzieniami<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Roman Góral<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.236207,
+          53.9174906
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świnoujście<br><b>Ulica:</b> Grottgera 13<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa i rozbudowa budynku i wjazd na posesję<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1265.0<br><b>Projektant:</b> Bartosz Fąfara<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.96746,
+          53.96536
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świerzno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa sieci elektroenergetycznej Odcinek linii kablowej 15 kV w pasie drogi wojewódzkiej nr 103 Świerzno dz. nr 117, 293/2, 295/7 obr. Świerzno „Modernizacja sieci elektroenergetycznej – Gostyniec – Świerzno<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Piotr   Bander<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4924243,
+          53.2535889
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gryfino<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego z instalacjami<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 673.38<br><b>Projektant:</b> Anna Dąbrowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7728556,
+          53.9653947
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kamień Pomorski<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa przyłącza wod. kan. wraz z siecią<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Marek Konarzewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5657399,
+          53.5486435
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Police<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> PRzebudowa ob. 576 związana z montazem falowników wentylatorów 1 WC-1/2 i 2WC-1/2.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Mirosław Skornia<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4642246,
+          53.2707265
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Wałcz<br><b>Ulica:</b> Kilińskiego 15<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa wewnętrznej instslacji gazowej w lokalu mieszkalnym w budynu wielorodzinnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Eleonora Puzo<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5509623,
+          53.4301818
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa stacji transformatorowej i przebudowę sieci elektroenergetycznej 15kV i 0,4kV <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ryszard Filipowicz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5509623,
+          53.4301818
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa stacji transformatorowej i przebudowę sieci elektroenergetycznej 15kV i 0,4kV <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ryszard Filipowicz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.203015,
+          54.1535507
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Słoneczników 1<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa wewnętrznej instalacji gazowej z podłączeniem kotła gazowego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Agnieszka Przezwicka - Litwin<br>"
+      }
+    }
+  ]
+}

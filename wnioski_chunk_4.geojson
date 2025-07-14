@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5386029,
+          53.4292887
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Piastów 65<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa wewnętrznej instalacji gazu w lokalu mieszkalnym nr 19A w budynku wielorodzinnym przy al. Piastów 65  w Szczecinie (dz. nr 44 z obr. 1034)<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Kamil  Zielazek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6742768,
+          53.7609974
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Łąkowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie wewnętrznej instalacji gazowej w lokalu mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Robert Golczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7014522,
+          52.7396681
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dębno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z instalacją wodociągową, kanalizacyjną, gazową oraz budowa zewnętrznej instalacji elektroenergetycznej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 622.0<br><b>Projektant:</b> Hartmunt Piotrowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0272248,
+          52.9116499
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogródek Pomorski<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego przyłącza wodociągowego zewnętrznej instalacji kanalizacji saniatrnej do przydomowej oczyszczalni ścieków zewnętrznej instalacji elektroenergetycznej wraz z zagospodarowaniem terenu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 685.0<br><b>Projektant:</b> Andrzej Kornaś<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664799,
+          52.924825
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Myślibórz<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego przyłącza wodociągowego i kanalizacyjnego zewnętrznej instalacji wodociągowej kanalizacyjnej gazowej i elektroenergetycznej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 589.0<br><b>Projektant:</b> Hartmunt Piotrowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7014522,
+          52.7396681
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dębno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji pozwolenia na budowę nr 402/2017<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Regina Rogoza<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2015,
+          53.91584
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gryfice<br><b>Ulica:</b> Bracka 7b<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wewnętrzna instalacja gazowa w lokalu mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Małgorzata Wajs<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5041675,
+          53.6264707
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Uniemyśl<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbiórka budynku gospodarczego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 300.0<br><b>Projektant:</b> brak danych brak danych<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3073048,
+          53.584659
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dobra<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 811.0<br><b>Projektant:</b> Anita Fert<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3073048,
+          53.584659
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dobra<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 811.0<br><b>Projektant:</b> Anita Fert<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4026625,
+          53.4359192
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dołuje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa dwóch budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 689.0<br><b>Projektant:</b> Tomasz Tur<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4170588,
+          52.9492755
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Chojna<br><b>Ulica:</b> Sikorskiego 11<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana decyzji nr 569/2018 z dn. 12-12-2018 r. w związku z budową wewnętrznej instalacji gazowej w lokalu mieszkalnym budynku wielorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jacek Kulaj<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0952705,
+          53.7648981
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Połczyn-Zdrój<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> remont elewacji frontowej budynku mieszkalnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bogusław Drożdż<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5027253,
+          53.4448263
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Brzozowskiego 26<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa wewnętrznej instalacji gazowej w związku z wykonaniem łazienki w części kuchni w lokalu mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna Marcinkowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5018846,
+          53.4433227
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Mickiewicza 153a<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa wewnętrznej instalacji gazowej w lokalu użytkowym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Krzysztof Gojżewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9662729,
+          54.0111258
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Białogard<br><b>Ulica:</b> Kołobrzeska 28<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wykonanie rozbudowy wewnetrznej instalacji gazowej dla lokalu mieszkalnego nr 8 w budynku mieszkalnym wielorodzinnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 2700.0<br><b>Projektant:</b> Adrian WICZK<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6789071,
+          54.3629824
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Sławno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa linii kablowej 0,4 kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adam Ambroziak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa 2 budynków mieszkalnych jednorodzinnych w zabudowie bliźniaczej z garażami wbudowanymi oraz instalacjami gazu, wody zimnej i ciepłej, kanalizacji sanitarnej, centralnego ogrzewania i elektrycznymi wraz ze zbiornikiem bezodpływowym na ścieki.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1091.0<br><b>Projektant:</b> Maria Berlińska Wytyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8216838,
+          53.7652976
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świdwinek<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego w zabudowie zagrodowej wraz z urządzeniami bud. oraz zagospodarowaniem terenu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 609.0<br><b>Projektant:</b> Michał Skup<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2175411,
+          54.2071799
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana sposobu użytkowania części strychu, remont z przebudową lokalu mieszkalnego, budowa instalacji gazowej, wodno-kanalizacyjnej i c.o.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Paweł Piekarski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5735379,
+          54.089304
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Charzyno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na budowę budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 323.0<br><b>Projektant:</b> Bartosz Góral<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.791432,
+          53.6995408
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Brzeżno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji PNB dot. AB-7351/161/2007 - zmiana lokalizacji przyłącza kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 500.0<br><b>Projektant:</b> Jan Koniec<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.791432,
+          53.6995408
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Brzeżno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji PNB dot. AB-7351/161/2007 - zmiana lokalizacji przyłącza kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 500.0<br><b>Projektant:</b> Jan Koniec<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.791432,
+          53.6995408
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Brzeżno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji PNB dot. AB-7351/161/2007 - zmiana lokalizacji przyłącza kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 500.0<br><b>Projektant:</b> Jan Koniec<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.791432,
+          53.6995408
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Brzeżno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji PNB dot. AB-7351/161/2007 - zmiana lokalizacji przyłącza kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 500.0<br><b>Projektant:</b> Jan Koniec<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.791432,
+          53.6995408
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Brzeżno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana decyzji PNB dot. AB-7351/161/2007 - zmiana lokalizacji przyłącza kanalizacji sanitarnej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 500.0<br><b>Projektant:</b> Jan Koniec<br>"
+      }
+    }
+  ]
+}

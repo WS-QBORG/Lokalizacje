@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4650651,
+          53.4300202
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Mierzyn<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa dwóch budynków mieszkalnych jednorodzinnych dwulokalowych w zabudowie bliźniaczej<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 630.0<br><b>Projektant:</b> Krzysztof Małecki<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4482588,
+          54.1622575
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kościernica<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 714.0<br><b>Projektant:</b> Mikołaj Krajewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5399384,
+          53.4294088
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Bohaterów Getta Warszawskiego 18<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa instalacji gazowej w związku z wydzieleniem pomiezczenia łazienki. <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna Haracz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbiórka drogi wraz z miejscami postojowymi, terenów rekreacyjno-sportowych oraz pozostałych elementów zagospodarowania działki Międzyzdroje ul. Gryfa Pomorskiego działka 8/4 obręb 0016 Międzyzdroje<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Adrian Górecki <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5391154,
+          53.4285251
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Małkowskiego 13of<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Remont i wzmocnienie stropu nad piwnicą w prześwicie bramowym. <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Magdalena Wilczyńska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5093186,
+          53.6548324
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebież<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbiórka 2 budynków gospodarczych<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1291.0<br><b>Projektant:</b> brak projektu brak projektu<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4670656,
+          53.5408392
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Tanowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana pozwolenia na budowę budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Krzysztof Grabowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4314113,
+          52.9629793
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Chojna<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa wewnętrznej instalacji gazowej wraz z montażem kotła gazowego o mocy 28 kW w budynku mieszkalnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1.0<br><b>Projektant:</b> Krzysztof  Parys<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0905832,
+          53.8986261
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Osówko<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa sieci wodociągowej w pasie drogowym DW 163<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Milita Gruszecka<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0905832,
+          53.8986261
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Osówko<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa sieci wodociągowej w pasie drogowym DW 163<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Milita Gruszecka<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5415315,
+          53.4447634
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Słowackiego 6<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa instalacji gazu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Michał Ulrych<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5657399,
+          53.5486435
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Police<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 632.0<br><b>Projektant:</b> Dariusz Stachura<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378059,
+          53.5846743
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Łubowo<br><b>Ulica:</b> Polna 24<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 715.92<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378059,
+          53.5846743
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Łubowo<br><b>Ulica:</b> Polna 24<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 715.92<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3081176,
+          54.0515335
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebiatów<br><b>Ulica:</b> Jaromin 43<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa z rozbudową wewnętrznej instalacji gazowej w lokalu mieszkalnym <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kaczamrek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9007055,
+          53.0761097
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Mielęcin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 710.0<br><b>Projektant:</b> Piotr Topyła<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49317,
+          53.21738
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Pniewo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 517.26<br><b>Projektant:</b> Grzegorz Kmiecik<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7767962,
+          53.774596
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świdwin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 316.0<br><b>Projektant:</b> Leszek Piątek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9814959,
+          53.1151082
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Letnin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa zespołu silosów zbożowych  1 x BIN 1000 i 4 x BIN 200<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bolesław Gąsiorowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9814959,
+          53.1151082
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Letnin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa zespołu silosów zbożowych  1 x BIN 1000 i 4 x BIN 200<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Bolesław Gąsiorowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4968898,
+          53.4210762
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Okulickiego 22<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Piotr Bach<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49317,
+          53.21738
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Pniewo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego z instalacjami.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 949.0<br><b>Projektant:</b> Anna Dąbrowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6534004,
+          54.0515795
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gościno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenia na budowę sieci kablowej 15kV oraz rozbiórka sieci napowietrznej 15kV<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kozak<br>"
+      }
+    }
+  ]
+}

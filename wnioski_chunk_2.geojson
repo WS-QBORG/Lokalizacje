@@ -1,0 +1,616 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.14619,
+          54.15927
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Niekłonice<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 770.0<br><b>Projektant:</b> Ryszard Zalewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3470141,
+          54.3951856
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Bobolin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego oraz budynków rekreacji indywidualnej w ramach usług turystycznych<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 723.0<br><b>Projektant:</b> Monika  Głodowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7357232,
+          53.3569533
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Trzcinowa 2<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowę budynku mieszkalnego jednorodzinnego z niezbędna infrastrukturą techniczną, w tym przydomową oczyszczalnią ścieków <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 401.0<br><b>Projektant:</b> Łukasz Kołbyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5157778,
+          54.1434562
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Korzystno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na budowę budynku mieszklanego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1235.0<br><b>Projektant:</b> Miłaida Ogińska <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0272248,
+          52.9116499
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogródek Pomorski<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z infratsrukturą <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 679.0<br><b>Projektant:</b> Józef Barwiński<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9773396,
+          53.8241081
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Golczewo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z infrastrukturą techniczną na działce nr 525/3 obręb 0001 Golczewo KOB I kubatura 1288 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1288.0<br><b>Projektant:</b> Marian  Szpilkowski <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3356892,
+          53.8270328
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świnoujście<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego na działce nr 170 obręb 0002 Wolin KOB I kubatura 698 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 698.0<br><b>Projektant:</b> Iwona  Całus <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2987124,
+          54.0916376
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Gorzysław<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny wraz z niezbędną infrastrukturą techniczną <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1086.0<br><b>Projektant:</b> Marcin Sieradzki<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4650598,
+          53.9431591
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dworzysko<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> zmiana sposobu użytkowania wraz z przebudową, rozbudową i nadbudową istniejacego budynku warsztatowego na budynek mieszkalny wielorodzinny <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1329.0<br><b>Projektant:</b> Krzysztof Hodun<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9691251,
+          54.0145099
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Białogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa stacji transformatorowej 15 / 0,4 kV wraz z infrastrukturą towarzyszącą<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 51.0<br><b>Projektant:</b> Grzegorz Marciszyn<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9691251,
+          54.0145099
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Białogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa stacji transformatorowej 15 / 0,4 kV wraz z infrastrukturą towarzyszącą<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 51.0<br><b>Projektant:</b> Grzegorz Marciszyn<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9691251,
+          54.0145099
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Białogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa stacji transformatorowej 15 / 0,4 kV wraz z infrastrukturą towarzyszącą<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 51.0<br><b>Projektant:</b> Grzegorz Marciszyn<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5810312,
+          53.4588009
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Robotnicza 20<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa lokalu mieszkalnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna Marcinkowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3058165,
+          54.3119182
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Bielkowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budynek mieszkalny jednorodzinny wraz z zagospodarowaniem terenu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1147.0<br><b>Projektant:</b> Sylwia Kozanecka<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8242751,
+          53.614665
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Rydzewo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny z infrastrukturą techniczną w zabudowie zagrodowej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 307.0<br><b>Projektant:</b> Zofia Lempert van Heerden<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8242751,
+          53.614665
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Rydzewo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny z infrastrukturą techniczną w zabudowie zagrodowej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 307.0<br><b>Projektant:</b> Zofia Lempert van Heerden<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8506816,
+          53.6114243
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Białuń<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny parterowy z użytkowym poddaszem i  wbudowanym garażem z instalacjami<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 868.8<br><b>Projektant:</b> Magdalena  Zgorzelska <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3549399,
+          53.7445649
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Barwice<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa, rozbudowa i nadbudowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 580.0<br><b>Projektant:</b> Leszek Piątek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4408474,
+          53.8804535
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Wapnica<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wykonanie zewnętrznej i wewnętrznej instalacji gazowej w budynku mieszkalnym jednorodzinnym przy w Lubinie na działce nr 15 obręb Lubin gmina Międzyzdroje<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Czesław  Nowakowski <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5418186,
+          53.4446914
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Słowackiego 5<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> PRZEBUDOWA DACHU<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Wojciech Ostriwski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1958746,
+          53.5543359
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Niwka<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z niezbędną infrastrukturą techniczną<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 567.0<br><b>Projektant:</b> Zofia Lempert van Heerden<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.243573,
+          53.785435
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kłodzino<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 641.0<br><b>Projektant:</b> Paweł Przydanek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa 2 budynków mieszkalnych jednorodzinnych.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1300.0<br><b>Projektant:</b> Zbigniew Baranowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa 2 budynków mieszkalnych jednorodzinnych.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1300.0<br><b>Projektant:</b> Zbigniew Baranowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5399897,
+          53.5772916
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Borne Sulinowo<br><b>Ulica:</b> Konopnickiej 17B<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa budynku mieszkalnego wielorodzinnego w obrębie lokalu mieszkalnego nr 17B/10 <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 2500.0<br><b>Projektant:</b> Krzysztof Lechowicz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.433801,
+          54.446975
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Cisowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa budynku mieszkalnego jednorodzinnego wraz z niezbędną infrastrukturą<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 459.0<br><b>Projektant:</b> Piotr  Adamowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalno-usługowego (mieszkalny wielorodzinny z lokalami zakwaterowania turystycznego) wraz z niezbedną infrastruktura techniczną (zewnętrzna instalacja wodociągowa, kanalizacji sanitarnej, gazowa, elektryczna) działka nr 274/3, 154/19 obręb 0019 Wapnica gmina Międzyzdroje KOB XIII i XIV kubatura 3921 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 3921.0<br><b>Projektant:</b> Iwona  Całus <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalno-usługowego (mieszkalny wielorodzinny z lokalami zakwaterowania turystycznego) wraz z niezbedną infrastruktura techniczną (zewnętrzna instalacja wodociągowa, kanalizacji sanitarnej, gazowa, elektryczna) działka nr 274/3, 154/19 obręb 0019 Wapnica gmina Międzyzdroje KOB XIII i XIV kubatura 3921 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 3921.0<br><b>Projektant:</b> Iwona  Całus <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8299285,
+          53.5656939
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Goleniów<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z instalacjami<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 620.0<br><b>Projektant:</b> Magdalena Milewska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa instalacji gazowej zalicznikowej w budynku wielorodzinnym w lokalu mieszkalnym.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Artur Musiał<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8286198,
+          53.9012395
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Górki<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego z infrastrukturą techniczną w Górkach gmina Kamień Pomorski działka nr 25/4 KOB I kubatura 485 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 485.0<br><b>Projektant:</b> Magdalena  Żebrowska <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0100002,
+          53.5142326
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stepnica<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z instalacjami<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 297.87<br><b>Projektant:</b> Karol  Jurga <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z towarzyszącą infrastrukturą techniczną.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 710.0<br><b>Projektant:</b> Mariusz Januszewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17707,
+          54.19092
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego wraz z towarzyszącą infrastrukturą techniczną.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 710.0<br><b>Projektant:</b> Mariusz Januszewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0146357,
+          53.7123585
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Smogorze<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa farmy fotowoltaicznej Nr 2 o mocy do 1 MW wraz z zagospodarowaniem terenu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Karolina Naróg<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0146357,
+          53.7123585
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Smogorze<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa farmy fotowoltaicznej Nr 2 o mocy do 1 MW wraz z zagospodarowaniem terenu<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Karolina Naróg<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0430869,
+          53.3364355
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> Mieszka I 3<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa wewnętrznej (w częściach wspólnych) instalacji gazowej  w budynku mieszkalnym wielorodzinnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ewa Rybak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2656577,
+          54.062627
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebiatów<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny według projektu gotowego typu „Dom w malinówkach 2” wraz z niezbędną infrastrukturą techniczną <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 516.0<br><b>Projektant:</b> Jan Kaczmarek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa istniejącego muru nabrzeża, budowa pomostu pływającego, wykonanie nawierzchni utwardzonych, budowa obiektów małej architektury, przebudowa sieci kanalizacji sanitarnej, gazowej i elektrycznej (usunięcie kolizji), budowa sieci monitoringu, budowa przyłączy i sieci elektrycznych (wraz z oprawami oświetleniowymi), budowa przyłączy wod.-kan., wykonanie systemu odprowadzania wody opadowej w ramach zadania inwestycyjnego pn. „PRZEBUDOWA BRZEGÓW RZEKI PARSĘTY NA ODCINKU OD UL. KAMIENNEJ DO UL. ŁOPUSKIEGO 9 (OBA BRZEGI)”<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Justyna Gidel-Miaskauzy<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa istniejącego muru nabrzeża, budowa pomostu pływającego, wykonanie nawierzchni utwardzonych, budowa obiektów małej architektury, przebudowa sieci kanalizacji sanitarnej, gazowej i elektrycznej (usunięcie kolizji), budowa sieci monitoringu, budowa przyłączy i sieci elektrycznych (wraz z oprawami oświetleniowymi), budowa przyłączy wod.-kan., wykonanie systemu odprowadzania wody opadowej w ramach zadania inwestycyjnego pn. „PRZEBUDOWA BRZEGÓW RZEKI PARSĘTY NA ODCINKU OD UL. KAMIENNEJ DO UL. ŁOPUSKIEGO 9 (OBA BRZEGI)”<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Justyna Gidel-Miaskauzy<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa istniejącego muru nabrzeża, budowa pomostu pływającego, wykonanie nawierzchni utwardzonych, budowa obiektów małej architektury, przebudowa sieci kanalizacji sanitarnej, gazowej i elektrycznej (usunięcie kolizji), budowa sieci monitoringu, budowa przyłączy i sieci elektrycznych (wraz z oprawami oświetleniowymi), budowa przyłączy wod.-kan., wykonanie systemu odprowadzania wody opadowej w ramach zadania inwestycyjnego pn. „PRZEBUDOWA BRZEGÓW RZEKI PARSĘTY NA ODCINKU OD UL. KAMIENNEJ DO UL. ŁOPUSKIEGO 9 (OBA BRZEGI)”<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Justyna Gidel-Miaskauzy<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wniosek o pozwolenie na budowę urządzenia reklamowego słupa ogłoszeniowego ul. Jagiellońska<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Agata Sobkowiak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2609123,
+          54.0631188
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebiatów<br><b>Ulica:</b> Kościuszki 11<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa ze zmianą sposobu użytkowania istniejącego pomieszczenia składu opału na pomieszczenie techniczne z montażem dwóch kotłów gazowych o mocy 48kW każdy z wewnętrzną instalacją gazową.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Marek Konarzewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5760662,
+          53.4411753
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Antosiewicza 1<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa elewacji frontowej hali<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> DOROTA SUKIENNIK <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5735379,
+          54.089304
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Charzyno<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wniosek o pozwolenie na budowę budynku jednorodzinnego wraz z infrastrukturą techniczną<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 470.0<br><b>Projektant:</b> Sławomir Zientarski <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Wykonanie instalacji gazowej dla potrzeb lokalu mieszkalnego w budynku mieszkalnym wielorodzinnym w Międzyzdrojach na działce nr 343 obręb 0020<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jadwiga  Maciejewska <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0100002,
+          53.5142326
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stepnica<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa ścian urnowych<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Piotr Błażejewski<br>"
+      }
+    }
+  ]
+}

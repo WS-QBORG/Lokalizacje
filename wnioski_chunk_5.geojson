@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana pozwolenia na budowe nr 518/2014 z dnia 27.10.2014 Budowa budynku mieszkalnego wielorodzinnego „KOMANDOR” z usługami w parterze i garażem wraz z budową wewn. sieci instalacji wodociągowej, kanalizacji sanitarnej i deszczowej, telekomunikacyjnej i energetycznej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 50375.0<br><b>Projektant:</b> Roger Kostarczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana pozwolenia na budowe nr 518/2014 z dnia 27.10.2014 Budowa budynku mieszkalnego wielorodzinnego „KOMANDOR” z usługami w parterze i garażem wraz z budową wewn. sieci instalacji wodociągowej, kanalizacji sanitarnej i deszczowej, telekomunikacyjnej i energetycznej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 50375.0<br><b>Projektant:</b> Roger Kostarczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448903,
+          53.9282745
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Międzyzdroje<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana pozwolenia na budowe nr 518/2014 z dnia 27.10.2014 Budowa budynku mieszkalnego wielorodzinnego „KOMANDOR” z usługami w parterze i garażem wraz z budową wewn. sieci instalacji wodociągowej, kanalizacji sanitarnej i deszczowej, telekomunikacyjnej i energetycznej <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 50375.0<br><b>Projektant:</b> Roger Kostarczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7207855,
+          54.131841
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Dygowo<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Pozwolenie na budowę budynku mieszkalnego jednorodzinego i budynku gospodarczego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 395.0<br><b>Projektant:</b> Waldemar Skręty<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1775766,
+          54.1837121
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Lutyków 9<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa instalacji gazowej dla potrzeb lokalu mieszkalnego nr 4.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Lilia Znamirowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.132388,
+          53.6128806
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Małobór<br><b>Ulica:</b> nan 6<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Dom jednorodzinny z zewnętrzna instalacją wody, przewodami kanalizacji sanitarnej, przydomową oczyszczalnią ścieków, wlz, miejscami parkingowymi<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 727.0<br><b>Projektant:</b> Andrzej Marek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0316459,
+          53.3089775
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Zmiana sposobu użytkowania poddasza nieużytkowego na cele mieszkalne w budynku usługowo-handlowo-mieszkalnym wraz z rozbudową wewnętrznych instalacji <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Rafał Szpilkowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6681339,
+          53.3792204
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Botaniczna 100<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa lukarn w budynku mieszkalnym - zmiana decyzji<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1225889,
+          53.6687698
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Nowogard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa rozdzielczej sieci wodociągowej i sieci kanalizacji sanitarnej wraz z przyłączami wodno-kanalizacyjnymi <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Miłosz Kondraciuk<br>"
+      }
+    }
+  ]
+}
