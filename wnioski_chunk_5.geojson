@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 1004.0<br><b>Projektant:</b> Stanisław Duda<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1775766,
+          54.1837121
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Lutyków 9<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Lilia Znamirowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa istniejącego/istniejących obiektów budowlanych<br><b>Kubatura:</b> 577.5<br><b>Projektant:</b> Magdalena Zgorzelska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.132388,
+          53.6128806
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Małobór<br><b>Ulica:</b> nan 6<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 727.0<br><b>Projektant:</b> Andrzej Marek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 931.0<br><b>Projektant:</b> Andrzej Soroko<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 931.0<br><b>Projektant:</b> Andrzej Soroko<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6681339,
+          53.3792204
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Botaniczna 100<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 556.0<br><b>Projektant:</b> Jan Głowacki <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2293261,
+          53.5646995
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Czaplinek<br><b>Ulica:</b> Drahimska 53<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> 1450.0<br><b>Projektant:</b> Tomasz Kubicki<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5635564,
+          53.4564481
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Roentgena 32<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Szymon Guza<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6012586,
+          54.1763928
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kołobrzeg<br><b>Ulica:</b> Wschodnia 19-29<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Halina Ryl<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 826.0<br><b>Projektant:</b> Sławomir Sytnik<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 826.0<br><b>Projektant:</b> Sławomir Sytnik<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 826.0<br><b>Projektant:</b> Sławomir Sytnik<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan  Pędziwiatr <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5431357,
+          53.4313899
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Jagiellońska 13<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna  Haracz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5431357,
+          53.4313899
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Jagiellońska 13<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna  Haracz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2688832,
+          53.9034421
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świnoujście<br><b>Ulica:</b> Okólna 17<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> 1037.0<br><b>Projektant:</b> Iwona Całus<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2584754,
+          51.7516644
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Rymań<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 480.0<br><b>Projektant:</b> Dariusz Ruta<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2713578,
+          53.8053948
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Płoty<br><b>Ulica:</b> Armii Wojska Polskiego 12<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Grażyna Jankowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 38.0<br><b>Projektant:</b> Jacek Bolesław Miller<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5469347,
+          53.4303952
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Śląska 44<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Dariusz Ruta<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7627498,
+          53.7690507
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Świdwin<br><b>Ulica:</b> Koszalińska 44<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Helena Żuk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6874674,
+          53.4079757
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Starej Baśni 15<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa istniejącego/istniejących obiektów budowlanych<br><b>Kubatura:</b> 815.0<br><b>Projektant:</b> Natalkia Poniewiera<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5553929,
+          53.4363602
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Malczewskiego 24<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Wojciech  Zawisza<br>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5399384,
+          53.4294088
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Bohaterów Getta Warszawskiego 18<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna Haracz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5391154,
+          53.4285251
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Małkowskiego 13of<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Magdalena Wilczyńska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5415315,
+          53.4447634
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Słowackiego 6<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Michał Ulrych<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2252717,
+          -33.873048
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Police<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 632.0<br><b>Projektant:</b> Dariusz Stachura<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378059,
+          53.5846743
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Łubowo<br><b>Ulica:</b> Polna 24<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 715.92<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378059,
+          53.5846743
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Łubowo<br><b>Ulica:</b> Polna 24<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> 715.92<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3081176,
+          54.0515335
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebiatów<br><b>Ulica:</b> Jaromin 43<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Kaczamrek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4968898,
+          53.4210762
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Okulickiego 22<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa istniejącego/istniejących obiektów budowlanych<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Piotr Bach<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0816149,
+          53.3422592
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Mirosławiec<br><b>Ulica:</b> Słoneczna 9<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Justyna Markowicz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8641063,
+          53.5440234
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Goleniów<br><b>Ulica:</b> Wileńska 28<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jan Pędziwiatr<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1287417,
+          2.7670023
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kurów<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jacek Pawlaczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1287417,
+          2.7670023
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kurów<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Jacek Pawlaczyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.32966,
+          53.9287701
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Tąpadły<br><b>Ulica:</b> nan 3<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa istniejącego/istniejących obiektów budowlanych<br><b>Kubatura:</b> 27.0<br><b>Projektant:</b> Jan Kaczmarek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5530372,
+          53.4679321
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Wodnika 13<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> rozbudowa istniejącego/istniejących obiektów budowlanych<br><b>Kubatura:</b> 400.0<br><b>Projektant:</b> Adrian Szubryt<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Tomasz Brejdak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6963596,
+          53.7032509
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecinek<br><b>Ulica:</b> Matejki 29<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> ZDZISŁAW DYMECKI<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.520599,
+          53.4417683
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Waryńskiego 8<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> wykonanie robót budowlanych innych niż wymienione powyżej<br><b>Kubatura:</b> nan<br><b>Projektant:</b> MAREK Orłowski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.861046,
+          60.9227634
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Kolin<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowa nowego/nowych obiektów budowlanych<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Marek Kopański<br>"
+      }
+    }
+  ]
+}
