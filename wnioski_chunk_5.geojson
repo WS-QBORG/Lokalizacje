@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 1004.0<br><b>Projektant:</b> Stanisław Duda<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1775766,
+          54.1837121
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Koszalin<br><b>Ulica:</b> Lutyków 9<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa instalacji gazowej dla potrzeb lokalu mieszkalnego nr 4.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Lilia Znamirowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa budynku mieszkalnego jednorodzinnego o klatkę schodową i schody zewnetrzne oraz zmiana sposobu użytkowania stropodachu na taras<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 577.5<br><b>Projektant:</b> Magdalena Zgorzelska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.132388,
+          53.6128806
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Małobór<br><b>Ulica:</b> nan 6<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Dom jednorodzinny z zewnętrzna instalacją wody, przewodami kanalizacji sanitarnej, przydomową oczyszczalnią ścieków, wlz, miejscami parkingowymi<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 727.0<br><b>Projektant:</b> Andrzej Marek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6053807,
+          -34.1639271
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> XXVI<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa sieci kanalizacji deszczowej wraz z przebudową i rozbudową szczelnego zbiornika retencyjno - osadowego <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Andrzej Pierścionek<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny w ramach tworzenia siedliska rolnego wraz z zewnętrzną instalacją wodociągową i kanalizacji sanitarnej oraz przydomową oczyszczalnią ścieków<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 931.0<br><b>Projektant:</b> Andrzej Soroko<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.773732,
+          18.7778874
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> nan<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budynek mieszkalny jednorodzinny w ramach tworzenia siedliska rolnego wraz z zewnętrzną instalacją wodociągową i kanalizacji sanitarnej oraz przydomową oczyszczalnią ścieków<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 931.0<br><b>Projektant:</b> Andrzej Soroko<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6681339,
+          53.3792204
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Botaniczna 100<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Rozbudowa lukarn w budynku mieszkalnym - zmiana decyzji<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Tomasz Wolanin<br>"
+      }
+    }
+  ]
+}

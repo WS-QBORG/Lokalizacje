@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7357232,
+          53.3569533
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Trzcinowa 2<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> budowę budynku mieszkalnego jednorodzinnego z niezbędna infrastrukturą techniczną, w tym przydomową oczyszczalnią ścieków <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 401.0<br><b>Projektant:</b> Łukasz Kołbyk<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5810312,
+          53.4588009
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Robotnicza 20<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa lokalu mieszkalnego<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Joanna Marcinkowska<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5418186,
+          53.4446914
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Słowackiego 5<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> PRZEBUDOWA DACHU<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Wojciech Ostriwski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5399897,
+          53.5772916
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Borne Sulinowo<br><b>Ulica:</b> Konopnickiej 17B<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa budynku mieszkalnego wielorodzinnego w obrębie lokalu mieszkalnego nr 17B/10 <br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 2500.0<br><b>Projektant:</b> Krzysztof Lechowicz<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8894568,
+          52.3853894
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Górki<br><b>Ulica:</b> nan nan<br><b>Kategoria:</b> I<br><b>Rodzaj inwestycji:</b> Budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Budowa budynku mieszkalnego jednorodzinnego z infrastrukturą techniczną w Górkach gmina Kamień Pomorski działka nr 25/4 KOB I kubatura 485 m3<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> 485.0<br><b>Projektant:</b> Magdalena  Żebrowska <br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0430869,
+          53.3364355
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Stargard<br><b>Ulica:</b> Mieszka I 3<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa wewnętrznej (w częściach wspólnych) instalacji gazowej  w budynku mieszkalnym wielorodzinnym<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Ewa Rybak<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2609123,
+          54.0631188
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Trzebiatów<br><b>Ulica:</b> Kościuszki 11<br><b>Kategoria:</b> XIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> Przebudowa ze zmianą sposobu użytkowania istniejącego pomieszczenia składu opału na pomieszczenie techniczne z montażem dwóch kotłów gazowych o mocy 48kW każdy z wewnętrzną instalacją gazową.<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> Marek Konarzewski<br>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5760662,
+          53.4411753
+        ]
+      },
+      "properties": {
+        "popup": "<b>Miasto:</b> Szczecin<br><b>Ulica:</b> Antosiewicza 1<br><b>Kategoria:</b> VIII<br><b>Rodzaj inwestycji:</b> Obiekt budowlany inny niż budynek mieszkalny jednorodzinny<br><b>Nazwa zamierzenia:</b> przebudowa elewacji frontowej hali<br><b>Województwo:</b> zachodniopomorskie<br><b>Kubatura:</b> nan<br><b>Projektant:</b> DOROTA SUKIENNIK <br>"
+      }
+    }
+  ]
+}
